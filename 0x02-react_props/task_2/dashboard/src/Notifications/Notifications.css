@@ -1,0 +1,12 @@
+/* Add a border and some padding */
+.Notifications {
+    border: 2px solid #e0354b;
+    padding: 1rem;
+    border-style: dashed;
+}
+ul li[data="default"] {
+    color: blue;
+}
+ul li[data="urgent"] {
+    color: red;
+}
