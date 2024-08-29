@@ -1,0 +1,18 @@
+/* Add a border and some padding */
+.menuItem p{
+    text-align: right;
+}
+.Notifications {
+    border: 2px solid #e0354b;
+    padding: 1rem;
+    border-style: dashed;
+    width: 40%;
+    right: 0;
+    margin-left: 57%;
+}
+ul li[data="default"] {
+    color: blue;
+}
+ul li[data="urgent"] {
+    color: red;
+}
