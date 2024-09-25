@@ -1,0 +1,1 @@
+Redux - selectors and reducers
